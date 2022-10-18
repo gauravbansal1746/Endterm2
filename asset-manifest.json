@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gauravbansal1746/Endproject.git/static/css/main.e6c13ad2.css",
+    "main.js": "/gauravbansal1746/Endproject.git/static/js/main.336c4e75.js",
+    "index.html": "/gauravbansal1746/Endproject.git/index.html",
+    "main.e6c13ad2.css.map": "/gauravbansal1746/Endproject.git/static/css/main.e6c13ad2.css.map",
+    "main.336c4e75.js.map": "/gauravbansal1746/Endproject.git/static/js/main.336c4e75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.336c4e75.js"
+  ]
+}
